@@ -1,4 +1,3 @@
 # gallery
-hello world!
-
+простая галлерея на php
 
