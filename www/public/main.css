@@ -1,0 +1,41 @@
+#myul {
+	background-color: #ccc;
+	padding: 0;
+	margin: 0;
+}
+#myul li {
+	display: inline-block;
+}
+#myul li a {
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 20px;
+}
+#myul li a:hover {
+	background-color: #ddd;
+	color: #000;
+}
+#content {
+	width: 60%;
+	border: 1px solid #111;
+	margin-top: 20px;
+}
+#rigth_reclame {
+	float: right;
+	padding: 5px;
+	width: 37%;
+	font-size: 20px;
+	color: red;
+	border: 1px solid #111;
+	margin-top: 20px;
+	height: 700px;
+	margin-bottom: 10px;
+
+}
+#footer {
+	border: 1px solid #111;
+	padding: 10px;
+	clear: both;
+	margin-top: 10px;
+}
